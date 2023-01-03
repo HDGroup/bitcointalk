@@ -7,4 +7,7 @@ EAL5+ EAL6+ AIS-31
 https://blog.csdn.net/finery77/article/details/103631614  
 https://mp.weixin.qq.com/s?__biz=MzU2OTg5MTE3Nw==&mid=2247483861&idx=1&sn=c5df711bb7f1835c167c2983cd705ec8&chksm=fcf681d3cb8108c533ae742291e8d442e73a32f9ee5b67453ddd40485e1e7deea1f488cb903e&scene=21#wechat_redirect  
 
+浅谈华为鸿蒙获得国际安全评估EAL5+证书 https://blog.csdn.net/finery77/article/details/102580415  
+
+
 一份密码学笔记 https://zhuanlan.zhihu.com/p/555058575  
