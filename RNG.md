@@ -3,6 +3,7 @@ https://support.ledger.com/hc/en-us/articles/4415198323089-How-Ledger-device-gen
 https://donjon.ledger.com/threat-model/  
 
 
-EAL5+ EAL6+ AIS-31
+EAL5+ EAL6+ AIS-31  
+https://blog.csdn.net/finery77/article/details/103631614  
 
 一份密码学笔记 https://zhuanlan.zhihu.com/p/555058575  
