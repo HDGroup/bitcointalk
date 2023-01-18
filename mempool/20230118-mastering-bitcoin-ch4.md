@@ -7,5 +7,11 @@ https://coxxa.github.io/bitcoin-ahr999-HODL/#/di-liu-zhang?id=%e7%ae%a1%e7%90%86
 # 主要内容
 https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc  
 
+补充内容  
+https://www.chainnode.com/tutorial/1786  
+
+第一次看到十六进制是加入  
+https://twitter.com/cloudwu/status/1615178408216137737  
+
 # Output
 https://www.youtube.com/watch?v=Bg5NnkzdJvg  
